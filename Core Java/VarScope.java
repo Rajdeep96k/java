@@ -1,6 +1,6 @@
 public class VarScope {
 
-    static String name = "Aditya"; // global scope
+    static String name = "Rajdeep"; // global scope
 
     public static void main(String[] args) {
         // Scope of a variable

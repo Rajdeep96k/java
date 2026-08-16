@@ -11,8 +11,8 @@ public class FunOverloading {
         int z = sum(3,5,6); // 14
         System.out.println(z);
 
-        greet("Aditya", 28);
-        greet(28, "Rohit");
+        greet("Rajdeep", 28);
+        greet(28, "Mohit");
 
     }
 

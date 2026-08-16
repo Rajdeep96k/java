@@ -3,7 +3,7 @@ public class Funtions {
         // Funtions in Java
 
         greet();
-        sayHello("Rohit");  // Arguments
+        sayHello("Mohit");  // Arguments
         System.out.println(getNumber());
         System.out.println(multiply(2, 4)); // 8
 
